@@ -1,0 +1,45 @@
+//
+//  PrefixHeader.pch
+//  tt
+//
+//  Created by Apple on 2017/11/22.
+//  Copyright © 2017年 李康滨,工作qq:1218773641. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+
+#define PrefixHeader_pch
+
+
+#if APP_DEV
+
+
+#define env   @"开发环境"
+
+
+
+#elif APP_PRO
+
+
+#define env   @"开发环境"
+
+
+
+#elif 1
+
+
+#define env   @"其他模式"
+
+#endif
+
+
+
+
+
+
+
+
+
+
+
+#endif /* PrefixHeader_pch */

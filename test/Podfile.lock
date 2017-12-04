@@ -1,0 +1,15 @@
+PODS:
+  - lkb_pod_one (0.1.0)
+  - ppp (0.1.0)
+
+DEPENDENCIES:
+  - lkb_pod_one
+  - ppp
+
+SPEC CHECKSUMS:
+  lkb_pod_one: ac577edf4a7989bf8f56ad1fe06418276de80ce4
+  ppp: 1db32eec28a5db4809d9475d12e693d3b24a1c82
+
+PODFILE CHECKSUM: aacd2ad6ee9dd2bf230789e03473413520b64692
+
+COCOAPODS: 1.2.0

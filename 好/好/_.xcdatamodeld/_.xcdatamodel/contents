@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13240" systemVersion="17B48" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class"/>
+    <fetchRequest name="FetchRequest" entity="Entity" predicateString="FALSEPREDICATE"/>
+    <elements>
+        <element name="Entity" positionX="-36" positionY="9" width="128" height="45"/>
+    </elements>
+</model>
